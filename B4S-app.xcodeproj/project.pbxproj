@@ -355,7 +355,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "6b9a3a55-bf0a-4db2-8012-08c8be0d7b85";
+				PROVISIONING_PROFILE = "87f643f0-5dcc-4cc2-a91d-63401fa9e7ab";
 			};
 			name = Debug;
 		};
@@ -368,7 +368,7 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "6b9a3a55-bf0a-4db2-8012-08c8be0d7b85";
+				PROVISIONING_PROFILE = "87f643f0-5dcc-4cc2-a91d-63401fa9e7ab";
 			};
 			name = Release;
 		};
@@ -425,6 +425,7 @@
 				1C4605A61B4D1001009EDF68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		1C4605A71B4D1001009EDF68 /* Build configuration list for PBXNativeTarget "B4S-appTests" */ = {
 			isa = XCConfigurationList;
@@ -433,6 +434,7 @@
 				1C4605A91B4D1001009EDF68 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
